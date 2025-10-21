@@ -20,7 +20,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-defaultBackgroundImage = "background-0.png"
+defaultBackgroundImage = "background.svg"
 smartTOC = true
 defaultFeaturedImage = "background-1.png"
 
@@ -44,7 +44,7 @@ cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
-homepageImage = "background-0.png"
+homepageImage = "background.svg"
 
 [article]
 showDate = true
