@@ -12,5 +12,10 @@ dateFormat = "2 January 2006"
 logo = "yhetti.png"
 secondaryLogo = "yhetti.png"
 
+[[params.author.links]]
+email = "mailto:info@bluevatech.com"
+
 ["params.author"]
 image = "lil_yhetti.png"
+email = "info@bluevatech.com"
+headline = "More content coming soon!"
